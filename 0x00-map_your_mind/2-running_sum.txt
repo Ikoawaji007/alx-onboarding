@@ -1,0 +1,4 @@
+Imput numbers
+Add all numbers
+  IF numbers are positive ADD
+    ELSE stop
